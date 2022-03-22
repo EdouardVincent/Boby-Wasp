@@ -18,7 +18,6 @@ font2=pygame.font.Font(None, 150)
 trap_image = pygame.image.load('C:\Jeu personnages\OIP (46).png')
 trap_upside_down_image = pygame.image.load('C:\Jeu personnages\OIP (47).png')
 bg = pygame.image.load('C:\Jeu personnages\OIP (42).png')
-bird_image = pygame.image.load('C:\Jeu personnages\OIP (44).png')
 bee_image = pygame.image.load('C:\Jeu personnages\OIP (45).png')
 
 window = pygame.display.set_mode((1400,670))
